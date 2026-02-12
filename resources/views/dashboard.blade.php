@@ -13,6 +13,7 @@
                     
                 </div>
                                     {{ __("You're logged out") }}
+                test main file
             </div>
         </div>
     </div>
