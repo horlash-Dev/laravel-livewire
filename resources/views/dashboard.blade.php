@@ -14,7 +14,7 @@
                 </div>
                                     {{ __("You're logged out") }}
                  <div class="p-6 text-gray-900 dark:text-gray-500">
-                editorial
+                editorial skill
                  </div>
             </div>
         </div>
